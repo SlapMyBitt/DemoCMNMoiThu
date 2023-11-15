@@ -15,9 +15,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test1", "Test1\Test1.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MenuStrip", "MenuStrip\MenuStrip.csproj", "{2B6AD52C-5DA2-450A-9FBC-B823BE453233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListView", "ListView\ListView.csproj", "{3CCD8B04-E273-40E6-8490-D532146C04E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListView", "ListView\ListView.csproj", "{3CCD8B04-E273-40E6-8490-D532146C04E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO", "ADO\ADO.csproj", "{A6E25932-81B8-4823-B443-DD4C1D680594}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADO", "ADO\ADO.csproj", "{A6E25932-81B8-4823-B443-DD4C1D680594}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "choyo", "choyo", "{27D6AD03-430B-4220-BDC0-21FD748DE0BF}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hâh", "hâh", "{E9DE0890-B52E-48EC-BD5F-8ABC209C3BB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
