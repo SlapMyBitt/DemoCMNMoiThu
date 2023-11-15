@@ -19,6 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListView", "ListView\ListVi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADO", "ADO\ADO.csproj", "{A6E25932-81B8-4823-B443-DD4C1D680594}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "choyo", "choyo", "{27D6AD03-430B-4220-BDC0-21FD748DE0BF}"
+	ProjectSection(SolutionItems) = preProject
+		TextFile1.txt = TextFile1.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
